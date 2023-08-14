@@ -18,6 +18,18 @@
 ###
 
 <br clear="both">
+<br>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax">𝘯𝘪𝘯𝘢</th>
+    <th class="tg-0lax">𝘵𝘸𝘦𝘯𝘵𝘺-𝘧𝘪𝘷𝘦</th>
+    <th class="tg-0lax">𝘳𝘰𝘮𝘦</th>
+    <th class="tg-0lax">𝘴𝘢𝘨 ♐︎</th>
+
+  </tr>
+</thead>
+</table>
 
 <h4 align="left">♡ about me</h4>
 
