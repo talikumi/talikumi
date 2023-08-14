@@ -75,11 +75,14 @@
 </div>
 
 ###
+<div clear="both">
+<h4 align="left">♡ find me on</h4> 
 
-<h4 align="left">♡ number of visits</h4>
-
-![:talikumi](https://count.getloli.com/get/@:talikumi)
-
-###
+<a href="https://discord.com/users/334441407638929408"><img align="left" width="380" src="https://lanyard.kyrie25.me/api/334441407638929408?imgStyle=round&idleMessage=Currently%20Offline.%20Add%20me%20@%hatsuyumi!&bg=1f2328"></a>
 
 
+### <h4 align="left">♡ number of visits</h4>
+
+
+
+<img align="center" width="350" height="110" src="https://count.getloli.com/get/@:talikumi">
