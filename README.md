@@ -18,7 +18,7 @@
 ###
 
 <br clear="both">
-<br>
+
 <h4 align="left">♡ about me</h4>
 
 <div clear="both">
