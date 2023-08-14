@@ -83,6 +83,4 @@
 
 ### <h4 align="left">♡ number of visits</h4>
 
-
-
-<img align="center" width="350" height="110" src="https://count.getloli.com/get/@:talikumi">
+<img align="center" width="350" height="100" src="https://count.getloli.com/get/@:talikumi">
