@@ -24,7 +24,7 @@
 <div clear="both">
 
 <p align="left">𝘊𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘦𝘯𝘳𝘰𝘭𝘭𝘦𝘥 𝘢𝘵 42 𝘙𝘰𝘮𝘢 𝘓𝘶𝘪𝘴𝘴.<br>
-𝘞𝘩𝘦𝘯 𝘐'𝘮 𝘯𝘰𝘵 𝘤𝘰𝘥𝘪𝘯𝘨, 𝘺𝘰𝘶'𝘭𝘭 𝘧𝘪𝘯𝘥 𝘮𝘦 𝘨𝘳𝘪𝘯𝘥𝘪𝘯𝘨 𝘪𝘯 𝘨𝘢𝘮𝘦𝘴, 𝘓𝘦𝘢𝘨𝘶𝘦 𝘰𝘧 𝘓𝘦𝘨𝘦𝘯𝘥𝘴 𝘣𝘦𝘪𝘯𝘨 𝘢 𝘧𝘢𝘷𝘰𝘳𝘪𝘵𝘦. 
+𝘞𝘩𝘦𝘯 𝘐'𝘮 𝘯𝘰𝘵 𝘤𝘰𝘥𝘪𝘯𝘨, 𝘺𝘰𝘶'𝘭𝘭 𝘧𝘪𝘯𝘥 𝘮𝘦 𝘨𝘳𝘪𝘯𝘥𝘪𝘯𝘨 𝘪𝘯 𝘨𝘢𝘮𝘦𝘴, 𝘓𝘦𝘢𝘨𝘶𝘦 𝘰𝘧 𝘓𝘦𝘨𝘦𝘯𝘥𝘴 𝘣𝘦𝘪𝘯𝘨 𝘢 𝘧𝘢𝘷𝘰𝘳𝘪𝘵𝘦.<br>
 𝘍𝘳𝘰𝘮 𝘮𝘢𝘴𝘵𝘦𝘳𝘪𝘯𝘨 𝘤𝘰𝘮𝘣𝘰𝘴 𝘵𝘰 𝘥𝘦𝘤𝘪𝘱𝘩𝘦𝘳𝘪𝘯𝘨 𝘤𝘰𝘥𝘪𝘯𝘨 𝘱𝘶𝘻𝘻𝘭𝘦𝘴, 𝘐'𝘮 𝘢𝘭𝘭 𝘢𝘣𝘰𝘶𝘵 𝘵𝘩𝘦 𝘷𝘪𝘳𝘵𝘶𝘢𝘭 𝘸𝘰𝘳𝘭𝘥. 🎀<br>
 𝘖𝘵𝘩𝘦𝘳 𝘪𝘯𝘵𝘦𝘳𝘦𝘴𝘵𝘴: 𝘸𝘦𝘣 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵, 𝘈𝘳𝘥𝘶𝘪𝘯𝘰 𝘵𝘪𝘯𝘬𝘦𝘳𝘪𝘯𝘨, 𝘢𝘯𝘥 𝘢𝘵𝘵𝘦𝘮𝘱𝘵𝘪𝘯𝘨 𝘵𝘰 𝘤𝘰𝘰𝘬 𝘺𝘶𝘮𝘮𝘺 𝘈𝘴𝘪𝘢𝘯 𝘥𝘪𝘴𝘩𝘦𝘴.
 <br>𝘔𝘺 𝘵𝘰𝘰𝘭𝘴 𝘰𝘧 𝘤𝘩𝘰𝘪𝘤𝘦: 
@@ -82,22 +82,4 @@
 
 ###
 
-<h4 align="left">♡ fav music</h4>
 
-###
-
-<div align="left">
-  <a href="https://open.spotify.com/user/hatsuyumi">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<h4 align="left">♡ my logs</h4>
-
-###
-
-<img src="https://raw.githubusercontent.com/talikumi/talikumi/output/snake.svg" alt="Snake animation" />
-
-###
