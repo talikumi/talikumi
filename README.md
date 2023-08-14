@@ -5,7 +5,7 @@
 
 
 
-<br clear="both">
+<div clear="both">
 
 <img align="left" height="50" src="https://i.pinimg.com/originals/9c/29/d3/9c29d3dcd44f0c5a7fd43ea184b751c1.gif"  />
 
