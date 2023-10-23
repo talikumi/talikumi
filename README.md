@@ -1,24 +1,7 @@
 <h2 align="left">» 𝒲𝑒𝓁𝒸𝑜𝓂𝑒 𝓉𝑜 𝓂𝓎 𝓅𝒶𝑔𝑒</h2>
 
-###
-
-
-
-
-<div clear="both">
-
-<img align="left" height="50" src="https://i.pinimg.com/originals/9c/29/d3/9c29d3dcd44f0c5a7fd43ea184b751c1.gif"  />
-
-###
 
 <br clear="both">
-
-<img align="left" height="150" src="https://i.pinimg.com/564x/94/a6/bc/94a6bc6a1f4002847f15c33df7798b0c.jpg"  />
-
-###
-
-<br clear="both">
-<br>
 <table class="tg">
 <thead>
   <tr>
