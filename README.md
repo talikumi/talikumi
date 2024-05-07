@@ -49,19 +49,3 @@
 </div>
 
 ###
-
-<div clear="both">
-
-<h4 align="left">♡ statisics</h4>
-
-###
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=talikumi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-<div clear="both">
-<h4 align="left">♡ find me on</h4> 
-
-<a href="https://discord.com/users/334441407638929408"><img align="left" width="380" src="https://lanyard.kyrie25.me/api/334441407638929408?imgStyle=round&idleMessage=Add%20me%20@%hatsuyumi!&bg=1f2328"></a>
