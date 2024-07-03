@@ -6,7 +6,7 @@
 <thead>
   <tr>
     <th class="tg-0lax">𝘕𝘪𝘯𝘢</th>
-    <th class="tg-0lax">𝘛𝘸𝘦𝘯𝘵𝘺-six</th>
+    <th class="tg-0lax">𝘛𝘸𝘦𝘯𝘵𝘺-𝘴𝘪𝘹</th>
     <th class="tg-0lax">𝘙𝘰𝘮𝘦</th>
     <th class="tg-0lax">𝘚𝘢𝘨 ♐︎</th>
 
