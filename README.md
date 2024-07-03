@@ -1,20 +1,18 @@
-<h2 align="left">» 𝒲𝑒𝓁𝒸𝑜𝓂𝑒 𝓉𝑜 𝓂𝓎 𝓅𝒶𝑔𝑒</h2>
+<h2 align="left">𝒲𝑒𝓁𝒸𝑜𝓂𝑒</h2>
 
 
 <br clear="both">
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0lax">𝘯𝘪𝘯𝘢</th>
-    <th class="tg-0lax">𝘵𝘸𝘦𝘯𝘵𝘺-𝘧𝘪𝘷𝘦</th>
-    <th class="tg-0lax">𝘳𝘰𝘮𝘦</th>
-    <th class="tg-0lax">𝘴𝘢𝘨 ♐︎</th>
+    <th class="tg-0lax">𝘕𝘪𝘯𝘢</th>
+    <th class="tg-0lax">𝘛𝘸𝘦𝘯𝘵𝘺-six</th>
+    <th class="tg-0lax">𝘙𝘰𝘮𝘦</th>
+    <th class="tg-0lax">𝘚𝘢𝘨 ♐︎</th>
 
   </tr>
 </thead>
 </table>
-
-<h4 align="left">♡ about me</h4>
 
 <div clear="both">
 
