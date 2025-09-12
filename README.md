@@ -1,49 +1,22 @@
-<h2 align="left">𝒲𝑒𝓁𝒸𝑜𝓂𝑒</h2>
 
 
-<br clear="both">
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-0lax">𝘕𝘪𝘯𝘢</th>
-    <th class="tg-0lax">𝘛𝘸𝘦𝘯𝘵𝘺-𝘴𝘪𝘹</th>
-    <th class="tg-0lax">𝘙𝘰𝘮𝘦</th>
-    <th class="tg-0lax">𝘚𝘢𝘨 ♐︎</th>
+<img src="https://i.imgur.com/dUsLuhV.gif" width="343" />
 
-  </tr>
-</thead>
-</table>
+<ul>
+  <li><img src="https://64.media.tumblr.com/169aee81bfe0373a22a7e8d08a321fe2/tumblr_inline_p93rwlGf7G1rhwzwl_75sq.gif" width="12"/> 𝐟𝐫𝐨𝐧𝐭 - 𝐞𝐧𝐝 𝐝𝐞𝐯 & 𝐟𝐮𝐥𝐥-𝐬𝐭𝐚𝐜𝐤 𝐞𝐱𝐩𝐥𝐨𝐫𝐞𝐫</li>
+  <li><img src="https://64.media.tumblr.com/d1560694d1ad78af86f8da6e7292f21e/tumblr_inline_p94wgsxV2C1rhwzwl_75sq.gif" width="12"/> 𝐦𝐨𝐭𝐢𝐯𝐚𝐭𝐞𝐝 𝐛𝐲 𝐜𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐢𝐨𝐧 & 𝐢𝐦𝐩𝐚𝐜𝐭</li>
+  <li><img src="https://64.media.tumblr.com/169aee81bfe0373a22a7e8d08a321fe2/tumblr_inline_p93rwlGf7G1rhwzwl_75sq.gif" width="12"/> 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐞𝐝 𝐢𝐧 𝐀𝐈 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬 𝐰𝐢𝐭𝐡 𝐚 𝐟𝐨𝐜𝐮𝐬 <br>𝐨𝐧 𝐬𝐮𝐬𝐭𝐚𝐢𝐧𝐚𝐛𝐢𝐥𝐢𝐭𝐲</li>
+</ul>
 
-<div clear="both">
 
-<p align="left">𝘊𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘦𝘯𝘳𝘰𝘭𝘭𝘦𝘥 𝘢𝘵 42 𝘙𝘰𝘮𝘢 𝘓𝘶𝘪𝘴𝘴.<br>
-<br>𝘔𝘺 𝘵𝘰𝘰𝘭𝘴 𝘰𝘧 𝘤𝘩𝘰𝘪𝘤𝘦: 
-</p>
+  <br>
+  <img src="https://64.media.tumblr.com/77dce3f82d22eb1b453d11dd43ef3efc/tumblr_mlyhy5o68I1r7y61oo1_400.gifv" width="325" /> 
+  <br>
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wordpress,ts,bootstrap,sass,git,c,cpp,docker,react,figma,py,vite,nextjs,supabase,nodejs,npm,pnpm,aws,php,tailwind,mysql,&perline=6)](https://skillicons.dev)
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talikumi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="333">
 
-###
+
+
