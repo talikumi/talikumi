@@ -1,6 +1,6 @@
 
 
-<img src="https://i.imgur.com/dUsLuhV.gif" width="335" />
+
 
 <ul>
   <li><img src="https://64.media.tumblr.com/169aee81bfe0373a22a7e8d08a321fe2/tumblr_inline_p93rwlGf7G1rhwzwl_75sq.gif" width="12"/> 𝐟𝐫𝐨𝐧𝐭 - 𝐞𝐧𝐝 𝐝𝐞𝐯 & 𝐟𝐮𝐥𝐥 - 𝐬𝐭𝐚𝐜𝐤 𝐞𝐱𝐩𝐥𝐨𝐫𝐞𝐫</li>
@@ -16,7 +16,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wordpress,ts,bootstrap,sass,git,c,cpp,docker,react,figma,py,vite,nextjs,supabase,nodejs,npm,pnpm,aws,php,tailwind,mysql,&perline=6)](https://skillicons.dev)
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talikumi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="328">
 
 
 
